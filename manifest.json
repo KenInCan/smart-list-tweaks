@@ -3,7 +3,7 @@
 	"name": "Smart List Tweaks",
 	"version": "0.4.0",
 	"minAppVersion": "1.15.0",
-	"description": "Turn individual list behaviors on or off, with or without Obsidian's Smart lists setting, including the nested-item changes from Obsidian 1.15.",
+	"description": "Turn individual list behaviors on or off, with or without the Smart lists setting, including the nested-item changes from version 1.15.",
 	"author": "KenInCan",
 	"authorUrl": "https://github.com/KenInCan",
 	"isDesktopOnly": false

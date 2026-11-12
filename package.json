@@ -1,7 +1,7 @@
 {
 	"name": "smart-list-tweaks",
 	"version": "0.4.0",
-	"description": "Turn individual Smart lists behaviors on or off in Obsidian",
+	"description": "Turn individual Smart lists behaviors on or off",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
